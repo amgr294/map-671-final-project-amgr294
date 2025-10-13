@@ -46,4 +46,4 @@ Lessons from mapmaking include that symbology is a more powerful tool than I pre
 
 ## Final Project Link
 
-Please view the [final map online](https://github.com/amgr294/map-671-final-project-amgr294/blob/main/index.html). 
+Please view the [final map online](https://amgr294.github.io/map-671-final-project-amgr294/). 
