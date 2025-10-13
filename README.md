@@ -1,24 +1,17 @@
+# Visual Relationship Between Housing Cost and Tree Canopy Coverage in Seattle, Washington
 
-# Project title
-
-Across the README.md file, please answer the who, what, when, where, why, and how of the map making process
+Final project for MAP 671 Fall 2025 by Ashley Grospitch
 
 ## Project Contents
 
-If you wanted to include a table of contents to sections, and then links to each section.
+Table of Contents
 
-- [Data Source](#data-source)
 - [Project Background](#project-background)
-- ....
+- [Purpose](#purpose)
+- [Data Source](#data-source)
+- [Mapmaking Process](#mapmaking-process)
 
 ***
-
-### Data Source
-
-[Link to data source](https://...)
-
-* Initial Data projection: 
-* Final Map projection:
 
 ### Project Background
 
@@ -27,6 +20,13 @@ If you are interested in [other Markdown formatting options](https://www.markdow
 ### Purpose
 
 Please write about the map purpose using complete sentences. 
+
+### Data Source
+
+[Link to data source](https://...)
+
+* Initial Data projection: 
+* Final Map projection:
 
 ### Mapmaking Process
 
