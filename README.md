@@ -44,6 +44,6 @@ Key findings from the map include that tree canopy does appear to be loosely cor
 
 Lessons from mapmaking include that symbology is a more powerful tool than I previously thought. As a data-oriented person, I thought it would be most informative for me to determine the percent tree canopy in each census tract and discounted the information that could be gathered through visual comparison. Additionally, in using such large files, I gained a deeper understanding of different data management options, such as saving files at geopackages rather than shapefiles to be able to export large file sizes. 
 
-## Final Project Link
+### Final Project Link
 
 Please view the [final map online](https://amgr294.github.io/map-671-final-project-amgr294/). 
