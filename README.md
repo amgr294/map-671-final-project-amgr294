@@ -28,13 +28,19 @@ Initially, the goal of this project was to complete a spatial join of the two da
 
 The image below shows the tree canopy layer before and after editing the symbology, in which you are unable to determine density at all. By changing the color, opacity, and rendering, I was able to show tree canopy density.
 
+Original symbology:
 ![Original symbology](Original_symbology.png)
 
+Final symbology:
 ![Final symbology](Final_symbology.png)
 
 ### Map summary
 
 What are the key findings to take from your map and the overall mapmaking process?
+
+Key findings from the map include that tree canopy does appear to be loosely correlated with housing cost. Parts of west Seattle have a higher tree canopy density and also a higher price per square foot. Areas of downtown have less tree canopy and a lower price per square foot despite being in the downtown cooridor. This initial analysis provides a start in determining the relationship between housing price and tree canopy density and would need additional analyses to determine a statistical relationship. 
+
+Key findings from making this map is that symbology is a more powerful tool than I previously thought. As a data-oriented person, I thought it would be most informative for me to determine the percent tree canopy in each census tract and discounted the information that could be gathered through visual comparison. Additionally, in using such large files, I gained a deeper understanding of different data management options, such as saving files at geopackages rather than shapefiles to be able to export large file sizes. 
 
 ## Final Project Link
 
