@@ -26,6 +26,12 @@ The two datasets used in this analysis come from the [Seattle Open Data Portal](
 
 Initially, the goal of this project was to complete a spatial join of the two datasets and calculate the percent tree canopy coverage by census tract to more accurately determine the relationship between tree canopy coverage and housing price by square foot; however, the tree canopy dataset was so large that each geoprocessing tool took a long time to run, often crashing multiple times before completion, even after using the simplify and dissolve tools. Therefore, I decided to edit the symbology of the tree canopy layer to show density by rendering the layer using the feature multiply setting and visually compare density to housing price. I also edited the symbology of the housing price layer to create a color gradient that gets darker as housing price increased. 
 
+The image below shows the tree canopy layer before and after editing the symbology, in which you are unable to determine density at all. By changing the color, opacity, and rendering, I was able to show tree canopy density.
+
+![Original symbology](Original_symbology.png)
+
+![Final symbology](Final_symbology.png)
+
 ### Map summary
 
 What are the key findings to take from your map and the overall mapmaking process?
