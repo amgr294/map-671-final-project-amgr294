@@ -14,29 +14,17 @@ Final project for MAP 671 Fall 2025 by Ashley Grospitch
 
 ### Project Background and Purpose
 
-This project aims to visually compare the relationship between housing cost and tree canopy coverage in Seattle, Washington. The hypothesized relationship is that areas with a higher density of tree canopy, demonstrated in increased color density, will be visually associated with areas of higher housing cost, represented by average cost per square foot. Completing this visual analysis will serve to identify if tree canopy density is associated with a higher cost of housing. While many factors influence housing costs, tree canopy
+This project aims to visually compare the relationship between housing cost and tree canopy coverage in Seattle, Washington. The hypothesized relationship is that areas with a higher density of tree canopy, demonstrated in increased color density, will be visually associated with areas of higher housing cost, represented by average cost per square foot. Completing this visual analysis will serve to identify if tree canopy density is associated with a higher cost of housing. While many factors influence housing costs, higher tree canopy has been shown to be associated with higher housing price (Lee & Thompson, 2024).
 
-([For more information on the studied relationship between tree canopy and housing price, see this study conducted by Dr. Ryun Lee and Dr. Thomas Thompson.](https://doi.org/10.1080/19498276.2025.2461833))
+[For more information on the studied relationship between tree canopy and housing price, see this study conducted by Dr. Ryun Lee and Dr. Thomas Thompson.](https://doi.org/10.1080/19498276.2025.2461833)
 
 ### Data Sources
 
-[Link to data source](https://...)
-
-* Initial Data projection: 
-* Final Map projection:
+The two datasets used in this analysis come from the [Seattle Open Data Portal](https://data.seattle.gov/). The first dataset, ["Seattle Tree Canopy 2021"](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::seattle-tree-canopy-2021/about) was used to show the locations of tree canopy across the metropolitan area, mapped in 2021 using remotely sensed data. The second dataset, ["Single-Family Home Sale Prices by Census Tract"](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::single-family-home-sale-prices-by-census-tract/about), was used to show the average price per square foot by census tract. This dataset was specific to single-family homes, meaning the analysis is only applicable to this housing type. 
 
 ### Mapmaking Process
 
-Example of in process map ![in process image](filepath)
 
-You can describe the mapmapking process in this section, including images where it helps to describe the process.
-
-You can also use some lists, and here's some formatting ideas.
-
-1. **Example bold**
-2. *Example italics*
-3. 
-4. 
 
 ### Map summary
 
