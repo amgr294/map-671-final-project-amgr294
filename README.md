@@ -36,6 +36,8 @@ Final symbology:
 
 ![Final symbology](Final_symbology.png)
 
+Additionally, the original projection was in EPSG: 2926, which I also kept as the final projection because this is the projected coordinate system in feet for the north Washington area. 
+
 ### Map summary
 
 Key findings from the map include that tree canopy does appear to be loosely correlated with housing cost. Parts of west Seattle have a higher tree canopy density and also a higher price per square foot. Areas of downtown have less tree canopy and a lower price per square foot despite being in the downtown cooridor. This initial analysis provides a start in determining the relationship between housing price and tree canopy density and would need additional analyses to determine a statistical relationship. 
