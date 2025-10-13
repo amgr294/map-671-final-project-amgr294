@@ -2,26 +2,21 @@
 
 Final project for MAP 671 Fall 2025 by Ashley Grospitch
 
-## Project Contents
+## Table of Contents
 
-Table of Contents
-
-- [Project Background](#project-background)
-- [Purpose](#purpose)
+- [Project Background and Purpose](#project-background-and-purpose)
 - [Data Source](#data-source)
 - [Mapmaking Process](#mapmaking-process)
+- [Map Summary](#map-summary)
+- [Final Project Link](#final-project-link)
 
 ***
 
-### Project Background
+### Project Background and Purpose
 
-If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)
+This project aims to visually compare the relationship between housing cost and tree canopy coverage in Seattle, Washington. The hypothesized relationship is that areas with a higher density of tree canopy, demonstrated in increased color density, will be visually associated with areas of higher housing cost, represented by average cost per square foot. Completing this visual analysis will serve to identify if tree canopy density is associated with a higher cost of housing. 
 
-### Purpose
-
-Please write about the map purpose using complete sentences. 
-
-### Data Source
+### Data Sources
 
 [Link to data source](https://...)
 
