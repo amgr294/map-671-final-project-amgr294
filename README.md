@@ -14,7 +14,9 @@ Final project for MAP 671 Fall 2025 by Ashley Grospitch
 
 ### Project Background and Purpose
 
-This project aims to visually compare the relationship between housing cost and tree canopy coverage in Seattle, Washington. The hypothesized relationship is that areas with a higher density of tree canopy, demonstrated in increased color density, will be visually associated with areas of higher housing cost, represented by average cost per square foot. Completing this visual analysis will serve to identify if tree canopy density is associated with a higher cost of housing. 
+This project aims to visually compare the relationship between housing cost and tree canopy coverage in Seattle, Washington. The hypothesized relationship is that areas with a higher density of tree canopy, demonstrated in increased color density, will be visually associated with areas of higher housing cost, represented by average cost per square foot. Completing this visual analysis will serve to identify if tree canopy density is associated with a higher cost of housing. While many factors influence housing costs, tree canopy
+
+([For more information on the studied relationship between tree canopy and housing price, see this study conducted by Dr. Ryun Lee and Dr. Thomas Thompson.](https://doi.org/10.1080/19498276.2025.2461833))
 
 ### Data Sources
 
