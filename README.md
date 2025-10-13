@@ -29,9 +29,11 @@ Initially, the goal of this project was to complete a spatial join of the two da
 The image below shows the tree canopy layer before and after editing the symbology, in which you are unable to determine density at all. By changing the color, opacity, and rendering, I was able to show tree canopy density.
 
 Original symbology:
+
 ![Original symbology](Original_symbology.png)
 
 Final symbology:
+
 ![Final symbology](Final_symbology.png)
 
 ### Map summary
