@@ -24,7 +24,7 @@ The two datasets used in this analysis come from the [Seattle Open Data Portal](
 
 ### Mapmaking Process
 
-
+Initially, the goal of this project was to complete a spatial join of the two datasets and calculate the percent tree canopy coverage by census tract to more accurately determine the relationship between tree canopy coverage and housing price by square foot; however, the tree canopy dataset was so large that each geoprocessing tool took a long time to run, often crashing multiple times before completion, even after using the simplify and dissolve tools. Therefore, I decided to edit the symbology of the tree canopy layer to show density by rendering the layer using the feature multiply setting and visually compare density to housing price. I also edited the symbology of the housing price layer to create a color gradient that gets darker as housing price increased. 
 
 ### Map summary
 
@@ -32,6 +32,4 @@ What are the key findings to take from your map and the overall mapmaking proces
 
 ## Final Project Link
 
-Here you are linking from the README.md to the index.html.
-
-Please view the [final map online](www.github...)
+Please view the [final map online](https://github.com/amgr294/map-671-final-project-amgr294/blob/main/index.html). 
